@@ -1,2 +1,2 @@
 # bg-remover
-Background Blurring using Python and Facebook's Segnment Anything Model
+Background Blurring using PyTorch and Facebook's Segment Anything Model
